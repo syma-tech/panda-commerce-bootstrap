@@ -1,0 +1,11 @@
+.panda-bg{
+    background-color: #fceae8;
+}
+.panda-btn{
+    background-image: linear-gradient(#ff1a73, #ff579a);
+}
+.gap{
+    position: relative;
+    top: 150px;
+    margin-bottom: 50px;
+}
